@@ -54,13 +54,13 @@ you have guessed the number 40 correctly in 5 attempt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/adityakumarg722/The-Perfect-Guess.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd number-guessing-game
+cd The-Perfect-Guess
 ```
 
 ### 3. Run the Python file
